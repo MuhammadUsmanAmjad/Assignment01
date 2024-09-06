@@ -2,6 +2,7 @@ package com.example.smdassignment1;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -51,5 +52,14 @@ public class DisplayInfoActivity extends AppCompatActivity {
         receiverCountryTextView.setText(receiverCountry);
         receiverAddressTextView.setText(receiverAddress);
         receiverContactInfoTextView.setText(receiverContactInfo);
+
+        findViewById(R.id.floatingActionButton).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(DisplayInfoActivity.this, SenderDetailsActivity.class);
+                startActivity(intent);
+            }
+        });
     }
+
 }

@@ -1,0 +1,63 @@
+l22-7830: 36 (deduction from the last question as pattern is correct but not the required one.
+
+l22-7854: 22 ( last question hard coded, no screenshots provided, diceroll question not working)
+
+l22-6198:40 ( complete document provided, kept simple and elegant.)
+
+l22-7881: 30 (last question is not submitted rest perfect).
+
+l22-7932: 20 (only 2 question are submitted)
+
+l22-7953: 40 ( all good)
+
+l22-7862: 35 (q3 was not correct)
+
+l22-7971: 30 (q2 seems is incorrect)
+
+l22-7910: 33 ( did not follow the requirement in Q2)
+
+l22-7959: 25 (q2 not done and q3 output not provided)
+
+l22-7939: 30 (q4 not submitted)
+
+l22-7868: 30 ( dice rolling only 5 times and no logic to stop it, zip file provided no document etc)
+
+l22-7896: 40 all perfect
+
+l22-7914: 40 
+
+l22-7938: 40
+
+l22-7831: 40
+
+l22-7913: 40
+
+l22-7990: 27 ( q2 not correct as per requirements and q4 2 words are incorrect - 0 for plagiarism
+
+l22-7900: 0- plagiarism in q2
+
+l22-7895: 30 (q4 not correctly implemented) 
+
+l22-7917: 40
+
+l22-6195: 40
+
+l22-7942: 37
+
+l22-7992: 40
+
+l22-7955: 40
+
+l22-7873: 40
+
+l20-1282: 40
+
+l21-6081: 32.5 (in q4 only I is correct, rest wrong).
+
+I22-2442: 36 (q2 main not provided, q4 K is not correct)
+
+
+
+
+
+
